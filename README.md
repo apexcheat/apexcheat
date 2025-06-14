@@ -16,6 +16,16 @@ Welcome to the [Sentry Apex Cheat](https://buckcheat.com/apex-legend-hacks/) pro
 
 [![Features](https://github.com/apexcheat/apexcheat/blob/main/Apex%20Hacks.png)](https://buckcheat.com/apex-legend-hacks/)
 
+## 📽️ Preview Video
+
+<p align="center">
+  <a href="https://buckcheat.com/media/apex-sentry-video/">
+    <img src="https://github.com/apexcheat/apexcheat/blob/main/Video.gif" alt="Watch Video ▶️" width="600" style="cursor: pointer;">
+  </a>
+</p>
+
+
+
 ### 🎯 AimBot Module
 - ✅ Enable AimBot
 - 👀 Visible Check
